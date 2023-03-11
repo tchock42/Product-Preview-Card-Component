@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](screenshot.png)
 
 There is the solution I made using HTML and CSS.
 
